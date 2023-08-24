@@ -1,0 +1,694 @@
+{
+  "Menu": {
+    "home": "Home",
+    "services": "Services",
+    "career": "Career",
+    "about": "About",
+    "aboutLingo": "About Lingo",
+    "contactUs": "Contact Us",
+    "jobs": "Available Jobs",
+    "application": "Spontaneous Application",
+    "Faq": "FAQ",
+    "security": "Security",
+    "profile": "Profile",
+    "Signout": "Sign out",
+    "login": "Login"
+  },
+  "ServicesPage": {
+    "title": "SELECT YOUR SERVICE",
+    "subtitle": "Lingo has plenty of options to ensure your business has everything for success!",
+    "btnText": "Get Started",
+    "translation": {
+      "name": "Translation",
+      "description": "This service includes general language translations for non-technical books, articles, brochures, radio and TV commercials, slogans, blog posts, etc."
+    },
+    "audioProduction": {
+      "name": "Audio Productions",
+      "description": "We record and master audiobooks as well as other projects requiring voice-overs, such as advertisements, and motion pictures."
+    },
+    "editing": {
+      "name": "Editing",
+      "description": "Our editing process goes beyond correcting grammar and spelling errors. We also improve language flow, structure, organization, and readability of your texts."
+    },
+    "printing": {
+      "name": "Printing",
+      "description": "Book and manual printing are some of our specialties. We also offer shipping options at competitive prices."
+    },
+    "ghostwriting": {
+      "name": "Ghostwriting",
+      "description": "This service is dedicated to book writing, both technical and non-technical."
+    },
+    "interpretation": {
+      "name": "Interpretation",
+      "description": "We offer expert interpretation services around the world, both remotely and in-person."
+    },
+    "certification": {
+      "name": "Certification",
+      "description": "We provide certification services in Portugal, USA, Ireland, UK, and Tunisia."
+    },
+    "technicalWriting": {
+      "name": "Technical Writing",
+      "description": "Our expertise includes essay writing, scientific articles, manuals, and contracts."
+    }
+  },
+  "Services": {
+    "explore": "Explore",
+    "allServices": "All Services",
+    "translation": {
+      "name": "Translation",
+      "description": "We break language barriers, making global content marketing easy. Lingo offers 20 languages and counting, helping you expand your business worldwide. Lingo handles everything from simple translations to diverse content like books, articles, brochures, ads, slogans, and blogs."
+    },
+    "audioProduction": {
+      "name": "Audio Productions",
+      "description": "We understand that many people do not have the patience to stay buried in a book. Your one-stop solution is Lingo. Lingo can help you handle any of your audio production projects. Is it an audiobook, audio mastering, audio recording, or voice-over projects such as ads or movies? Lingo does it all."
+    },
+    "editing": {
+      "name": "Editing",
+      "description": "Our team is here to ensure your content shines, resonates, and leaves a lasting impression worldwide. We refine academic papers, business reports, creative writing, marketing content, and more. Trust us to polish your words and elevate your message to new heights."
+    },
+    "printing": {
+      "name": "Printing",
+      "description": "Discover the magic of our printing services, where your words find a home in beautifully crafted pages. We bring your stories to life with precision and care. With top-of-the-line printing technology and a commitment to quality, your books will inspire readers and stand the test of time."
+    },
+    "ghostwriting": {
+      "name": "Ghostwriting",
+      "description": "Lingo understands how long you have had your vision of writing that book. You feel like it may remain a mirage, but with our team of efficient writers, it is time for you to take that step with us and make your dreams come true. Fiction or non-fiction, make it clear to us, and let us do the magic!"
+    },
+    "interpretation": {
+      "name": "Interpretation",
+      "description": "Embrace seamless communication across languages with our expert interpretation services. Whether it's conferences, business meetings, legal proceedings, or cultural events, we bridge the language gap, ensuring meaningful exchanges between diverse audiences."
+    },
+    "certification": {
+      "name": "Certification",
+      "description": "Ensure the authenticity of your essential documents with our reliable certification services. From legal contracts to official reports and sensitive paperwork, our expert team meticulously verifies and validates each document."
+    },
+    "technicalWriting": {
+      "name": "Technical Writing",
+      "description": "Our skilled team transforms intricate concepts into clear, user-friendly content that resonates with your target audience. From user manuals and product guides to software documentation and technical reports, we bring simplicity to complexity."
+    }
+  },
+  "HomePage": {
+    "Qualities": {
+      "title": "QUALITIES",
+      "subtitle": "THAT MAKES US BETTER THAN OTHER SERVICES",
+      "human": {
+        "title": "HUMAN QUALITY",
+        "intro": "Lingo delivers every project with the highest level of accuracy by combining technological excellence and human expertise."
+      },
+      "fast": {
+        "title": "FAST TURNAROUND",
+        "intro": "We ensure on-time project delivery with best-in-class procedures that make project tracking simple for you at every stage."
+      },
+      "cost": {
+        "title": "COST EFFECTIVE",
+        "intro": "We provide affordable and high-quality services tailored to your business needs."
+      },
+      "team": {
+        "title": "QUALIFIED TEAM",
+        "intro": "We provide excellent translation services worldwide through a team of over 20 multilingual professionals."
+      }
+    },
+    "Reviews": {
+      "title": "Reviews",
+      "subtitle": "They are just some of those who have trusted our services. Project delivered, happy customer with Lingo.",
+      "writerProfession": "Professional Writer",
+      "quote": "Hi, my name is Onório Cutane. I am a professional writer versed in Christian literature and have written over 10 books that have been translated from Portuguese into English, French, and Spanish, which are available in most major platforms and digital libraries all over the world. Working with the Lingo team has been an extraordinary journey. The editors, translators, and review team are highly professional and have made my work easy. It’s motivating to work with this ever-present and caring team, who care about nothing less than the quality of our products (books) to suit an international standard. Therefore, as a professional writer who cares about quality products, I recommend that every writer who also wishes to be successful work with the Lingo team. I haven’t been disappointed working with this company; therefore, I think you won´t either."
+    },
+    "Affiliates": {
+      "title": "Affiliates",
+      "subtitle": "Collaborating for Mutual Success: The Power of Our Affiliate Partnerships"
+    }
+  },
+  "AboutUs": {
+    "title": "ABOUT LINGO",
+    "itemOne": {
+      "number": "01",
+      "title": "Foundation",
+      "description": "Lingo serves as a resource platform for brands looking to advance their prospects and reach a large audience by leveraging the vast potentials of machine intelligence and human expertise. Our portfolio of services include translation, interpretation, ghostwriting, audio production, technical writing, editing, certification, and printing. We understand the need for perfection, which is why we are committed to providing quality services on every project."
+    },
+    "itemTwo": {
+      "number": "02",
+      "title": "Workflow",
+      "description": "Lingo's ability to help businesses cut down on project management hours is one of its many remarkable features. As proof of our dedication, we have assembled a team of experienced professionals to ensure that your business goals are met. You can also track your projects online from anywhere, at any time."
+    },
+    "itemThree": {
+      "number": "03",
+      "title": "Locations",
+      "description": "We currently have offices in Warsaw (Poland), Tunis (Tunisia), Porto (Portugal), Wilmington, Delaware (USA), and Washington DC. (USA), Montreal, Toronto (Canada), Dublin (Ireland), and London (UK)."
+    },
+    "itemFour": {
+      "number": "04",
+      "title": "Languages",
+      "description": "We offer language services in English, French, Portuguese, Spanish, Italian, German, Chinese, Korean, Japanese, Polish, Czech, Slovak, Turkish, Arabic, Hebrew, Persian, Indonesian, Russian, Dutch, and Hindi."
+    }
+  },
+  "Security": {
+    "title": "PROTECTION OF YOUR DATA AND CONTENT IS A TOP PRIORITY AT LINGO COMMUNICATIONS",
+    "intro": "All Lingo servers are located in a highly secure, non-disclosed location. All content downloaded on the Lingo platform is maintained within Lingo’s encrypted database library called “crypto-js”:",
+    "items": {
+      "one": "Crypto-js is a library in javascript complete with cryptographic functions including encryption, decryption, and hashing functions.",
+      "two": "Crypto-js is licensed under the MIT license.",
+      "three": "Crypto-js is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns."
+    },
+    "outro": "All document encryption will only be lifted for the specific Lingo staff member assigned to each client. No other Lingo personnel will have access to any encrypted client file. For any questions regarding Lingo’s data and content security procedures, please contact us at"
+  },
+  "Faq": {
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "one": {
+      "id": 1,
+      "title": "What is Lingo?",
+      "moreInfo": "Lingo is a document and translating company. We transform your ideas and creative process into books, manuals, and manuscripts in 20 different languages. Among the services we provide are translation, ghostwriting, and audio book production. Other services include technical writing, document certification, printing, and interpretation."
+    },
+    "two": {
+      "id": 2,
+      "title": "Why choose Lingo?",
+      "moreInfo": "We provide more languages than other translation firms. More than that, we take pride in the sheer excellence and perfection with which we complete each task. You can also get expert advice from our in-house business intelligence and development team."
+    },
+    "three": {
+      "id": 3,
+      "title": "How can Lingo improve my business?",
+      "moreInfo": "Our editing and ghostwriting services guarantee you error-free and grammatically sound content, while our translation service helps you reach new audiences around the world. Our audio services also give people a more practical way to listen to your content in various languages. Every time we start a learning journey, Lingo takes all of these things into account. It's time to focus on other areas of your business while Lingo handles the creative side."
+    },
+    "four": {
+      "id": 4,
+      "title": "What languages are available?",
+      "moreInfo": "We currently offer support in 20 languages including, English, French, Portuguese, Spanish, Italian, German, Chinese, Korean, Japanese, Polish, Czech, Slovak, Turkish, Arabic, Hebrew, Persian, Indonesian, Russian, Dutch, and Hindi."
+    },
+    "five": {
+      "id": 5,
+      "title": " I need a certified document. Where do you offer this service?",
+      "moreInfo": "We are able to provide this service in the following countries: Portugal, the USA, Ireland, the UK, and Tunisia."
+    },
+    "six": {
+      "id": 6,
+      "title": "How is the cost calculated?",
+      "moreInfo": "All our services are priced differently. Translation, editing, ghostwriting, technical writing, and audio production services are priced per word. Our printing services are charged per page, while document certification and interpretation vary based on the needs of our clients. Also, revisions are billed on an hourly basis."
+    },
+    "seven": {
+      "id": 7,
+      "title": "What is the difference between Standard and Technical Translation/Editing/Writing?",
+      "moreInfo": "Our Standard creative services deal with any piece of work considered non-technical, including website content, articles, non-technical books, etc. If you need us to help you with a more complex document, that’s where our technical services come in handy! We can help you with anything from legal contracts, thesis, and instruction manuals here."
+    },
+    "eight": {
+      "id": 8,
+      "title": "When can I expect my project to be delivered?",
+      "moreInfo": "The deadline for your order will depend on the service you selected and the word count. Projects up to 5K words have a deadline of 1-2 days, and projects can range from 3-4 days (15K words) and 10+ days for projects with more than 40K words. The exact due date will be determined after your order is confirmed, and it will be sent to you via email. You can also access “my purchases” and check the status of your order, which is updated at the end of every business day."
+    },
+    "nine": {
+      "id": 9,
+      "title": "My project was finalized, but I want to request revisions. What do I do?",
+      "moreInfo": "You may request it by responding to the email you received with your final draft. The Project Manager will then arrange a free 30-min consultation for revisions. Please keep in mind that any additional revisions will have an extra cost."
+    },
+    "ten": {
+      "id": 10,
+      "title": "What differences exist between the standard and premium printing?",
+      "moreInfo": "Our standard printing services are tailored to meet your basic needs. The premium package comes with a personalized cover feature."
+    }
+  },
+  "SponteneousApplication": {
+    "title": "Sponteneous Application",
+    "firstname": "Firstname",
+    "firstnamePlaceholder": "Enter your first name",
+    "lastname": "Lastname",
+    "lastnamePlaceholder": "Enter your last name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone number",
+    "phonePlaceholder": "Enter your phone number",
+    "dob": "Birth Date",
+    "dobPlaceholder": "Enter your birth date",
+    "subject": "Subject",
+    "subjectPlaceholder": "Please enter the subject of your message",
+    "message": "Tell us about yourself",
+    "messagePlaceholder": "Tell us about your skills, passions ...",
+    "resume": "Upload your resume",
+    "resumePlaceholder": "Choose File - no file chosen",
+    "btnText": "Apply"
+  },
+  "LoginPage": {
+    "title": "Login",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "btnText": "Login",
+    "signupQuestion": "Dont have an account? Signup here.",
+    "forgotPassword": "Forgot your password?"
+  },
+  "SignupPage": {
+    "title": "Sign up",
+    "firstname": "Firstname",
+    "firstnamePlaceholder": "Enter your first name",
+    "lastname": "Last name",
+    "lastnamePlaceholder": "Enter your last name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "dob": "Date of Birth",
+    "dobPlaceholder": "Enter your date of birth",
+    "gender": "Gender",
+    "genderPlaceholder": "Enter your gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "donot": "Do Not Wish to Specify",
+    "select": "Please select an option",
+    "country": "Country",
+    "countryPlaceholder": "Enter your Country",
+    "city": "City",
+    "cityPlaceholder": "Enter your city",
+    "job": "Job",
+    "jobPlaceholder": "Enter your Job",
+    "phone": "Phone number",
+    "phonePlaceholder": "Enter your phone number",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "btnText": "Sign up",
+    "loginQuestion": "Already a user? Login here."
+  },
+  "RecoverAccountPage": {
+    "title": " Recover Account",
+    "email": "E-mail",
+    "emailPlaceholder": "Enter your email address",
+    "btnText": "Verify",
+    "signupQuestion": "Signup here",
+    "loginQuestion": " Back to Login"
+  },
+  "ProfilePage": {
+    "title": "Profile",
+    "subtitle": "Personal Information",
+    "backBtn": "Back",
+    "logoutBtn": "Sign out"
+  },
+  "EditProfilePage": {
+    "title": "Profile",
+    "subtitle": "Personal Information",
+    "backBtn": "Back",
+    "logoutBtn": "Sign out"
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "firstname": "Firstname",
+    "firstnamePlaceholder": "Enter your first name",
+    "lastname": "Last name",
+    "lastnamePlaceholder": "Enter your last name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "subject": "Subject",
+    "subjectPlaceholder": "Please enter the subject of your message",
+    "message": "Message",
+    "messagePlaceholder": "Please tell us why you are reaching out to us",
+    "btnText": "Submit"
+  },
+  "NoUserComponent": {
+    "text": "Please login to access this feature",
+    "loginBtn": "Login",
+    "signupBtn": "Signup"
+  },
+  "CompletedComponent": {
+    "title": "Your request has been submitted",
+    "subtitle": "We will reach out to you very soon via email with the confirmation and quote",
+    "homeBtn": "Back to Home"
+  },
+  "UserDetailsComponent": {
+    "fullname": "Fullname",
+    "phone": "Phone",
+    "address": "Address",
+    "email": "E-mail"
+  },
+  "PaymentProcessComponent": {
+    "title": "PAYMENT PROCESS",
+    "status": "Processing",
+    "text": "We are charging you €{price} per word for {word} words",
+    "card": "Credit Card Info",
+    "pay": "Pay €{price}",
+    "loading": "Please hold on while we initiate the payment process"
+  },
+  "TranslationService": {
+    "title": "Translation",
+    "subtitle": "Translation bridges linguistic gaps, uniting diverse voices in harmony.",
+    "Tab": ["Translation Type", "Details", "Review", "Payment"],
+    "wordCount": "Word Count",
+    "info": "Select Your Translation Type",
+    "standard": {
+      "title": "Standard",
+      "subtitle": "Dedicated to non-technical content such as books, essays, blogs posts, product reviews, articles, etc"
+    },
+    "technical": {
+      "title": "Technical",
+      "subtitle": "Dedicated to content with technical terminology such as manuals, press releases, legal content, STEM topics, bitcoin, finances etc."
+    },
+    "uploadText": "Upload a your document",
+    "select": {
+      "text": "Choose the language :",
+      "to": "To",
+      "from": "From",
+      "option": "Select an option"
+    },
+    "file": "File",
+    "price": "Price",
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "payment": "Proceed to payment",
+    "response": "Unable to get word count, please Check the selected file",
+    "readingFileText": "We are reading your file, please hold on..."
+  },
+  "AudioProductionService": {
+    "title": "Audio Production",
+    "subtitle": "Audio production weaves a symphony of soundscapes, giving life to stories and capturing emotions.",
+    "Tab": ["Details", "Review", "Payment"],
+    "uploadText": "Upload a your document",
+    "details": "Document details",
+    "only": ".pdf only",
+    "gender": {
+      "text": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "option": "Select an option"
+    },
+    "language": {
+      "text": "Language",
+      "option": "Select an option"
+    },
+    "accent": {
+      "text": "Preferred Accent",
+      "placeholder": "Enter the accent"
+    },
+    "about": {
+      "text": "Tell us more about your project. (Optional)",
+      "placeholder": "Please give us more details ..."
+    },
+    "review": {
+      "gender": "Gender",
+      "language": "Language",
+      "accent": "Accent",
+      "doc": "Document name",
+      "wordCount": "Number of words",
+      "details": "Details about the project",
+      "price": "Price"
+    },
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "payment": "Proceed to payment",
+    "info": "Enter all information",
+    "response": "Unable to get word count, please Check the selected file",
+    "readingFileText": "We are reading your file, please hold on..."
+  },
+  "EditingService": {
+    "title": "Editing",
+    "subtitle": "Editing polishes raw words into gleaming gems, refining the artistry of expression.",
+    "Tab": ["Upload", "Editing Type", "Review", "Payment"],
+    "uploadText": "Upload a your document",
+    "details": "Document details",
+    "only": ".pdf only",
+    "infoType": "Select Your Editing Type",
+    "standard": {
+      "title": "Standard",
+      "subtitle": "Dedicated to non-technical content such as books, essays, blogs posts, product reviews, articles, etc."
+    },
+    "technical": {
+      "title": "Technical",
+      "subtitle": "Dedicated to content with technical terminology such as manuals, press releases, legal content, STEM topics, bitcoin, finances etc."
+    },
+    "review": {
+      "doc": "Document name",
+      "wordCount": "Number of words",
+      "type": "Editing Type",
+      "price": "Price"
+    },
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "payment": "Proceed to payment",
+    "info": "Enter all information",
+    "response": "Unable to get word count, please Check the selected file",
+    "readingFileText": "We are reading your file, please hold on...",
+    "existingData": "We noticed you have an existing data, please click here to continue from where you stopped",
+    "clear": "Clear",
+    "reload": "Reload"
+  },
+  "PrintingService": {
+    "title": "Printing",
+    "subtitle": "Printing transforms digital visions into tangible realities, immortalizing ideas on paper.",
+    "Tab": ["Printing Type", "Details", "Review", "Submitted"],
+    "uploadText": "Upload a your document",
+    "details": "Document details",
+    "only": ".pdf only",
+    "infoType": "Select Your Printing Type",
+    "standard": {
+      "title": "Standard Printing",
+      "subtitle": "Dedicated to mass printing such as books and manuals."
+    },
+    "premium": {
+      "title": "Premium Printing",
+      "subtitle": "Dedicated to mass printing with a personalized cover."
+    },
+    "form": {
+      "pages": "Number of Pages",
+      "quantity": "Quantity of Copies",
+      "quantityPlaceholder": "Enter a number of copies",
+      "color": "Color option",
+      "colors": "Colors",
+      "bw": "Black and White",
+      "both": "Both",
+      "colorPlaceholder": "Select a color",
+      "location": "Location to be shipped to",
+      "locationPlaceholder": "Enter location",
+      "details": "Any additional details? (Optional)",
+      "detailsPlaceholder": "If you selected both, please clarify here how many copies you need in colors and in black and white..."
+    },
+    "review": {
+      "doc": "Document name",
+      "pageCount": "Number of pages",
+      "type": "Printing Type",
+      "price": "Price",
+      "details": "Additional Details"
+    },
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "submitting": "Submitting your request ...",
+    "payment": "Proceed to payment",
+    "info": "Enter all information",
+    "response": "Unable to get word count, please Check the selected file",
+    "fileSize": "The selected file contains {size} page(s).",
+    "readingFileText": "We are reading your file, please hold on...",
+    "existingData": "We noticed you have an existing data, please click here to continue from where you stopped",
+    "clear": "Clear",
+    "reload": "Reload"
+  },
+  "InterpretationService": {
+    "title": "Interpretation",
+    "subtitle": "Interpretation unlocks the hidden meanings, revealing the intricacies of language and culture.",
+    "Tab": ["Details", "Review", "Submitted"],
+    "uploadText": "Do you want to upload a file? (optional)",
+    "details": "Document details",
+    "form": {
+      "from": "Language from",
+      "option": "Select an option",
+      "to": "Language to",
+      "date": "Date of event",
+      "datePlaceholder": "Select Date",
+      "time": "Time of event",
+      "timePlaceholder": "Select Time",
+      "details": "Details",
+      "detailsPlaceholder": "Please give us more details such as topic, expectations, etc...",
+      "doc": "Document name"
+    },
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "submitting": "Submitting your request ...",
+    "info": "Enter all information",
+    "existingData": "We noticed you have an existing data, please click here to continue from where you stopped",
+    "clear": "Clear",
+    "reload": "Reload"
+  },
+  "CertificationService": {
+    "title": "Document Certification",
+    "subtitle": "Document certification ensures authenticity, adding a seal of trust to crucial records.",
+    "Tab": ["Details", "Review", "Submitted"],
+    "uploadText": "Upload your document",
+    "details": "Document details",
+    "form": {
+      "certified": "Document to be certified",
+      "certifiedPlaceholder": "Professional certification, passport, birth certificate, etc",
+      "country": "Country",
+      "countryPlaceholder": "Enter the country",
+      "language": "Language",
+      "languagePlaceholder": "Enter the language ",
+      "details": "The purpose of the certification. (Optional)",
+      "purpose": "The purpose of the certification",
+      "detailsPlaceholder": "Please give us more details ...",
+      "doc": "Document name"
+    },
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "submitting": "Submitting your request ...",
+    "info": "Enter all information",
+    "existingData": "We noticed you have an existing data, please click here to continue from where you stopped",
+    "clear": "Clear",
+    "reload": "Reload"
+  },
+  "WritingService": {
+    "title": "Technical Writing",
+    "subtitle": "Technical writing simplifies complexity, guiding readers through intricate concepts with clarity and precision.",
+    "Tab": ["Details", "Review", "Payment"],
+    "uploadText": "Do you want to upload a file? (optional)",
+    "details": "Document details",
+    "form": {
+      "assignment": "Writing Assignment",
+      "assignmentPlaceholder": "Please let us know what you need written: instructions manual, scientific article, etc",
+      "topic": "Topic",
+      "topicPlaceholder": "Enter the topic",
+      "wordcount": "Word Count",
+      "wordcountPlaceholder": "Enter the word count",
+      "requirement": "Specific requirements",
+      "requirementPlaceholder": "If there are any special requirements that we should have in mind, please clarify them here.",
+      "resources": "Resources (optional)",
+      "resourcesPlaceholder": "If there are any websites, articles, or books you think will be useful for your writer, feel free to provide them here.",
+      "doc": "Document name"
+    },
+    "price": "Price",
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "info": "Enter all information",
+    "payment": "Proceed to payment",
+    "existingData": "We noticed you have an existing data, please click here to continue from where you stopped",
+    "clear": "Clear",
+    "reload": "Reload"
+  },
+  "GhostwritingService": {
+    "title": "Ghostwriting",
+    "subtitle": "Ghostwriting embodies the art of crafting words in shadows, breathing life into stories untold.",
+    "Tab": ["Writing Type", "Details", "Review", "Payment"],
+    "type": "Select your writing type",
+    "uploadText": "Do you want to upload a file? (optional)",
+    "details": "Document details",
+    "fiction": "Fiction",
+    "nonfiction": "Non Fiction",
+    "standard": {
+      "title": "Standard Writing",
+      "subtitle": "Dedicated to books about self-help, romance, science fiction, etc."
+    },
+    "technical": {
+      "title": "Technical Writing",
+      "subtitle": "Dedicated to books about finance, cryptocurrency, STEM, etc."
+    },
+    "form": {
+      "title": "Book title",
+      "titlePlaceholder": "Enter the book title",
+      "subtitle": "Book subtitle (optional)",
+      "subtitlePlaceholder": "Enter the Book subtitle",
+      "author": "Author Name",
+      "authorPlaceholder": "Enter the Author Name",
+      "preferences": "Formatting preferences (optional)",
+      "preferencesPlaceholder": "Enter the Formatting preferences",
+      "bookType": "Book type",
+      "bookTypePlaceholder": "Please enter the type",
+      "genre": "Genre",
+      "genrePlaceholder": "Select or enter any genre category",
+      "wordCount": "Word Count",
+      "wordCountPlaceholder": "Enter word count",
+      "summary": "Short Summary of the Book",
+      "summaryPlaceholder": "If there are any special requirements that we should have in mind, please clarify them here.",
+      "chapters": "Number of Chapters",
+      "chaptersPlaceholder": "Enter the Number of Chapters",
+      "wordCountPerChapter": "Word Count Per Chapter",
+      "wordCountPerChapterPlaceholder": "Enter the Word Count Per Chapter",
+      "audience": "Target Audience",
+      "audiencePlaceholder": "Enter the Target Audience",
+      "bookSize": "Book Size",
+      "bookSizePlaceholder": "Please enter the book Size",
+      "bookOutline": "Book Outline",
+      "bookOutlinePlaceholder": "Please provide an outline of the chapters or sections that you intend to include in your book.",
+      "resources": "Resources (optional)",
+      "resourcesPlaceholder": "If there are any websites, articles, or books you think will be useful for your writer, feel free to provide them below.",
+      "doc": "Document name",
+      "info": "Please share with us information regarding the book's structure, word count organizations, and specific topics you want discussed in the book. Don't be afraid to write a lot, every little detail counts!"
+    },
+    "dividerText": "Please share with us information regarding the book's structure, word count organizations, and specific topics you want discussed in the book. Don't be afraid to write a lot, every little detail counts!",
+    "horror": "Horror",
+    "fantasy": "Fantasy",
+    "fictions": "Science fiction",
+    "romance": "Romance",
+    "mystery": "Mystery",
+    "biography": "Biography",
+    "selfhelp": "Self-help",
+    "travel": "Travel",
+    "food": "Food",
+    "finance": "Finance",
+    "price": "Price",
+    "option": "Select an option",
+    "cancelBtnText": "Cancel",
+    "continueBtnText": "Continue",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back",
+    "info": "Enter all information",
+    "payment": "Proceed to payment",
+    "existingData": "We noticed you have an existing data, please click here to continue from where you stopped",
+    "clear": "Clear",
+    "reload": "Reload"
+  },
+  "LocaleLayout": {
+    "title": "Ling Commms"
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, pt {Portuguese} en {English} es {Spanish} other {Unknown}}",
+    "switchLocale": "{locale, select, pt {Portuguese} en {English} es {Spanish}}"
+  },
+  "SuccessComponent": {
+    "success": "Your payment was successful",
+    "failure": "Your payment was not successful",
+    "info": "We will reach out to you very soon via email",
+    "btnText": "Back to Home"
+  },
+  "PageErrorComponent": {
+    "title": "Page not found",
+    "subtitle": "We will redirect you back to the homepage",
+    "btnText": "Back to Home"
+  },
+  "Footer": {
+    "intro": "At LINGO Communications, we power your ideas through human support. All projects are handled by our team of professionals to ensure you get exactly what you envisioned.",
+    "contact": "CONTACT US",
+    "office": "REPUBLIC OF IRELAND",
+    "location": "13 Adelaide Road, Saint Kevin's, Dublin 2, D02 P950, Ireland",
+    "quickLinks": {
+      "title": "QUICK LINKS",
+      "home": "Home",
+      "services": "Services",
+      "career": "Career : Available Jobs",
+      "application": "Career : Spontaneous Application",
+      "security": "Security",
+      "lingo": "About : Lingo",
+      "faq": "About : Faq"
+    },
+    "services": {
+      "title": "SERVICES",
+      "translation": "Translation",
+      "editing": "Editing",
+      "ghostwriting": "Ghostwriting",
+      "production": "Audio Production",
+      "certification": "Certification",
+      "security": "Security",
+      "printing": "Printing",
+      "interpretation": "Interpretation",
+      "writing": "Technical Writing"
+    },
+    "newsletter": "NEWSLETTER",
+    "email": "E-mail",
+    "emailPlaceholder": "Enter your email address",
+    "subscribe": "Subscribe",
+    "outro": "2023 Lingo Communications. All Rights Reserved."
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "Menu": {
+    "home": "Início",
+    "services": "Serviços",
+    "career": "Recrutamento",
+    "about": "Sobre",
+    "aboutLingo": "Sobre a Lingo",
+    "contactUs": "Contactos",
+    "jobs": "Vagas disponíveis",
+    "application": "Candidatura espontânea",
+    "Faq": "FAQ",
+    "security": "Segurança",
+    "profile": "Perfil",
+    "Signout": "Terminar sessão",
+    "login": "Iniciar sessão"
+  },
+  "ServicesPage": {
+    "title": "SELECIONE O SEU SERVIÇO",
+    "subtitle": "A Lingo tem várias opções para garantir que o seu negócio tem tudo para ser bem-sucedido!",
+    "btnText": "Iniciar",
+    "translation": {
+      "name": "Tradução",
+      "description": "Este serviço inclui a tradução de carácter geral para livros não técnicos, artigos, brochuras, anúncios publicitários de rádio e TV, slogans, publicações para blogues, etc."
+    },
+    "audioProduction": {
+      "name": "Produção de Áudio",
+      "description": "Gravamos e masterizamos audiolivros, assim como outros projetos que precisam de locução tais como anúncios e filmes."
+    },
+    "editing": {
+      "name": "Edição",
+      "description": "O nosso processo de edição vai para além da correção de erros gramaticais e ortográficos. Também melhoramos o fluxo linguístico, a estrutura, a organização e a legibilidade dos seus textos."
+    },
+    "printing": {
+      "name": "Impressão",
+      "description": "Impressão de livros e manuais são algumas das nossas especialidades. Também oferecemos opções de envio a preços competitivos."
+    },
+    "ghostwriting": {
+      "name": "Ghostwriting",
+      "description": "Este serviço é destinado à redação de livros, tanto técnico como não técnico."
+    },
+    "interpretation": {
+      "name": "Interpretação",
+      "description": "Oferecemos serviços de interpretação pelo mundo inteiro, tanto à distância como presencialmente."
+    },
+    "certification": {
+      "name": "Certificação",
+      "description": "Fornecemos serviços de certificação em Portugal, EUA, Irlanda, Reino Unido e Tunísia."
+    },
+    "technicalWriting": {
+      "name": "Redação técnica",
+      "description": "As nossas competências incluem a redação de relatórios, artigos científicos, manuais e contratos."
+    }
+  },
+  "Services": {
+    "explore": "Explorar",
+    "allServices": "Todos os serviços",
+    "translation": {
+      "name": "TRADUÇÃO",
+      "description": "Quebramos as barreiras linguísticas, facilitando o marketing de conteúdos a nível global. A Lingo oferece 20 idiomas para o ajudar a expandir o seu negócio a nível mundial. A Lingo trata de tudo, desde traduções simples a diversos conteúdos, como livros, artigos, brochuras, anúncios, slogans e blogues."
+    },
+    "audioProduction": {
+      "name": "PRODUÇÃO DE ÁUDIO",
+      "description": "Compreendemos que muitas pessoas não têm paciência para mergulhar num livro. A sua solução é a Lingo. A Lingo pode ajudá-lo a gerir qualquer um dos seus projetos de produção áudio. Trata-se de um audiolivro, de uma masterização de áudio, de uma gravação de áudio ou de projetos de locução, como anúncios ou filmes? A Lingo faz tudo isso."
+    },
+    "editing": {
+      "name": "EDIÇÃO",
+      "description": "A nossa equipa está aqui para garantir que o seu conteúdo brilha, ressoa e deixa uma impressão duradoura em todo o mundo. Aperfeiçoamos trabalhos académicos, relatórios empresariais, redação criativa, conteúdo de marketing e muito mais. Confie em nós para refinar as suas palavras e elevar a sua mensagem a novos patamares."
+    },
+    "printing": {
+      "name": "IMPRESSÃO",
+      "description": "Descubra a magia dos nossos serviços de impressão, onde as suas palavras encontram um lar em páginas maravilhosamente trabalhadas. Damos vida às suas histórias com precisão e cuidado. Com tecnologia de impressão topo de gama e um empenho pela qualidade, os seus livros irão inspirar os leitores e sobreviver ao teste do tempo."
+    },
+    "ghostwriting": {
+      "name": "Ghostwriting",
+      "description": "A Lingo compreende perfeitamente há quanto tempo tem a visão de escrever esse livro. Sente que pode continuar a ser uma miragem, mas com a nossa equipa de escritores eficientes, chegou a altura de dar esse passo connosco e tornar os seus sonhos realidade. Seja ficção ou não-ficção, diga-nos o que quer e deixe-nos fazer a magia!"
+    },
+    "interpretation": {
+      "name": "INTERPRETAÇÃO",
+      "description": "Abrace a comunicação fluida entre línguas com os nossos serviços de interpretação especializados. Quer se trate de conferências, reuniões de negócios, processos judiciais ou eventos culturais, eliminamos as barreiras linguísticas, assegurando intercâmbios significativos entre diversos públicos."
+    },
+    "certification": {
+      "name": "CERTIFICAÇÃO",
+      "description": "Garanta a autenticidade dos seus documentos essenciais com os nossos serviços de certificação fiáveis. Desde contratos legais a relatórios oficiais e papelada sensível, a nossa equipa de especialistas verifica e valida meticulosamente cada documento."
+    },
+    "technicalWriting": {
+      "name": "REDAÇÃO TÉCNICA",
+      "description": "A nossa equipa qualificada transforma conceitos complexos em conteúdos claros e de fácil utilização que se adequam ao seu público-alvo. Desde manuais de utilizador e guias de produtos a documentação de software e relatórios técnicos, trazemos simplicidade à complexidade."
+    }
+  },
+  "HomePage": {
+    "Qualities": {
+      "title": "QUALIDADES",
+      "subtitle": "QUE NOS TORNAM MELHORES QUE OUTROS SERVIÇOS",
+      "human": {
+        "title": "QUALIDADE HUMANA",
+        "intro": "A Lingo entrega cada projeto com o mais alto nível de precisão, combinando a excelência tecnológica e a perícia humana."
+      },
+      "fast": {
+        "title": "ENTREGA RÁPIDA",
+        "intro": "Asseguramos uma entrega pontual do projeto com os melhores procedimentos que simplificam o acompanhamento do projeto em todas as fases."
+      },
+      "cost": {
+        "title": "ECONÓMICO",
+        "intro": "Prestamos serviços económicos e de alta qualidade, adaptados às necessidades da sua empresa."
+      },
+      "team": {
+        "title": "EQUIPA QUALIFICADA",
+        "intro": "Prestamos serviços de tradução de excelência em todo o mundo através de uma equipa de mais de 20 profissionais multilingues."
+      }
+    },
+    "Reviews": {
+      "title": "Comentários",
+      "subtitle": "Estes são apenas alguns dos que confiaram nos nossos serviços. Projeto entregue, cliente satisfeito com a Lingo.",
+      "writerProfession": "Escritor profissional",
+      "quote": "Olá, o meu nome é Onório Cutane. Sou escritor profissional versado na literatura cristã e já escrevi mais de 10 livros que foram traduzidos do português para o inglês, francês e espanhol, que estão disponíveis nas principais plataformas e bibliotecas digitais de todo o mundo. Trabalhar com a equipa da Lingo tem sido uma viagem extraordinária. Os editores, tradutores e equipa de revisão são altamente profissionais e têm facilitado o meu trabalho. É motivador trabalhar com esta equipa sempre presente e atenciosa, que se preocupa com nada menos do que a qualidade dos nossos produtos (livros) de acordo com um padrão internacional. Por isso, como um escritor profissional que se preocupa com a qualidade dos produtos, recomendo a todos os escritores que também desejam ter sucesso que trabalhem com a equipa da Lingo. Não fiquei desapontado ao trabalhar com esta empresa; por isso, penso que também não ficará desapontado."
+    },
+    "Affiliates": {
+      "title": "Afiliados",
+      "subtitle": "Colaboração para o sucesso mútuo: O poder das nossas parcerias de afiliados"
+    }
+  },
+  "AboutUs": {
+    "title": "SOBRE A LINGO",
+    "itemOne": {
+      "number": "01",
+      "title": "Fundação",
+      "description": "A Lingo funciona como uma plataforma de recursos para as empresas que pretendem desenvolver as suas perspetivas e alcançar um público abrangente, tirando partido do vasto potencial da inteligência artificial e dos conhecimentos humanos. O nosso portefólio de serviços inclui tradução, interpretação, ghostwriting, produção de áudio, redação técnica, edição, certificação e impressão. Compreendemos a necessidade de perfeição e é por isso que estamos empenhados em fornecer serviços de qualidade em todos os nossos projetos."
+    },
+    "itemTwo": {
+      "number": "02",
+      "title": "Fluxo de trabalho",
+      "description": "A capacidade da Lingo auxiliar as empresas a reduzir as horas de gestão de projetos é uma das suas muitas características notáveis. Como prova da nossa dedicação, reunimos uma equipa de profissionais experientes para garantir que os seus objetivos comerciais são atingidos. Também pode acompanhar os seus projetos online a partir de qualquer lugar, a qualquer momento."
+    },
+    "itemThree": {
+      "number": "03",
+      "title": "Instalações",
+      "description": "Atualmente, temos escritórios na Varsóvia (Polónia), Tunes (Tunísia), Porto (Portugal), Wilmington, Delaware e Washington DC. (EUA), Montreal, Toronto (Canadá), Dublin (Irlanda) e Londres (Reino Unido)."
+    },
+    "itemFour": {
+      "number": "04",
+      "title": "Idiomas",
+      "description": "Oferecemos serviços linguísticos em inglês, francês, português, espanhol, italiano, alemão, chinês, coreano, japonês, polaco, checo, eslovaco, turco, árabe, hebraico, persa, indonésio, russo, holandês e hindi."
+    }
+  },
+  "Security": {
+    "title": "A PROTEÇÃO DOS SEUS DADOS E CONTEÚDOS É UMA PRIORIDADE FUNDAMENTAL PARA A LINGO COMMUNICATIONS",
+    "intro": "Todos os servidores da Lingo estão localizados numa localização altamente segura e confidencial. Todo o conteúdo descarregado na plataforma Lingo é mantido dentro da biblioteca de base de dados encriptada da Lingo chamada “crypto-js”:",
+    "items": {
+      "one": "Crypto-js é uma biblioteca em javascript completa com funções criptográficas, incluindo encriptação, desencriptação e funções de hashing.",
+      "two": "Crypto-js está licenciado sob a licença MIT.",
+      "three": "Crypto-js é uma coleção em crescimento de algoritmos criptográficos padrão e seguros implementados em JavaScript usando as melhores práticas e padrões."
+    },
+    "outro": "Toda a encriptação de documentos só será utilizada pelo membro específico da equipa da Lingo atribuído a cada cliente. Nenhum outro pessoal da Lingo terá acesso a qualquer ficheiro encriptado do cliente. Para quaisquer questões relativas aos procedimentos de segurança de dados e conteúdos da Lingo, por favor contacte-nos através de"
+  },
+
+  "Faq": {
+    "title": "PERGUNTAS FREQUENTES",
+    "one": {
+      "id": 1,
+      "title": "O que é a Lingo?",
+      "moreInfo": "A Lingo é uma empresa de documentação e tradução. Transformamos as suas ideias e o seu processo criativo em livros, manuais e manuscritos em 20 línguas diferentes. Entre os serviços que prestamos contam-se a tradução, o ghostwriting e a produção de áudio. Outros serviços incluem redação técnica, certificação de documentos, impressão e interpretação."
+    },
+    "two": {
+      "id": 2,
+      "title": "Porquê optar pela Lingo?",
+      "moreInfo": "Fornecemos mais línguas do que outras empresas de tradução. Acima de tudo, orgulhamo-nos da excelência e perfeição com que concluímos cada tarefa. Também pode obter consultoria especializada da nossa equipa interna de inteligência empresarial e desenvolvimento."
+    },
+    "three": {
+      "id": 3,
+      "title": "Como é que a Lingo pode melhorar o meu negócio?",
+      "moreInfo": "Os nossos serviços de edição e ghostwriting garantem-lhe um conteúdo sem erros e gramaticalmente correto, enquanto o nosso serviço de tradução o ajuda a alcançar novos públicos em todo o mundo. Os nossos serviços de áudio também proporcionam às pessoas uma forma mais prática de conhecer o seu conteúdo em várias línguas. Sempre que iniciamos um percurso de aprendizagem, a Lingo tem em conta todos estes aspetos. Está na altura de se concentrar noutras áreas do seu negócio enquanto a Lingo trata da parte criativa."
+    },
+    "four": {
+      "id": 4,
+      "title": "Que idiomas estão disponíveis?",
+      "moreInfo": "Atualmente, oferecemos suporte em 20 idiomas, incluindo inglês, francês, português, espanhol, italiano, alemão, chinês, coreano, japonês, polaco, checo, eslovaco, turco, árabe, hebraico, persa, indonésio, russo, holandês e hindi."
+    },
+    "five": {
+      "id": 5,
+      "title": "Preciso de um documento certificado. Onde é que oferecem este serviço?",
+      "moreInfo": "Estamos habilitados a prestar este serviço nos seguintes países: Portugal, EUA, Irlanda, Reino Unido e Tunísia."
+    },
+    "six": {
+      "id": 6,
+      "title": "Como é calculado o custo?",
+      "moreInfo": "Todos os nossos serviços têm preços diferentes. Os serviços de tradução, edição, ghostwriting, redação técnica e produção de áudio têm um preço por palavra. Os nossos serviços de impressão são cobrados por página, enquanto a certificação de documentos e a interpretação variam consoante as necessidades dos nossos clientes. Além disso, as revisões são faturadas por hora."
+    },
+    "seven": {
+      "id": 7,
+      "title": "Qual é a diferença entre a tradução, edição e redação padrão e a técnica?",
+      "moreInfo": "Os nossos serviços de criação padrão tratam de qualquer trabalho considerado não técnico, incluindo conteúdos de sites, artigos, livros não técnicos, etc. Se precisar da nossa ajuda com um documento mais complexo, é aí que os nossos serviços técnicos são úteis! Podemos ajudá-lo com qualquer coisa, desde contratos legais, teses e manuais de instruções."
+    },
+    "eight": {
+      "id": 8,
+      "title": "Quando é que o meu projeto será entregue?",
+      "moreInfo": "O prazo de entrega do seu pedido dependerá do serviço que selecionou e do número de palavras. Os projetos até 5 mil palavras têm um prazo de 1-2 dias, podendo variar entre 3-4 dias (15 mil palavras) e 10+ dias para projetos com mais de 40 mil palavras. A data de entrega será determinada após a confirmação do seu pedido e ser-lhe-á enviada por e-mail. Também pode aceder a &quot;as minhas compras&quot; e verificar o estado do seu pedido, que é atualizado no final de cada dia útil."
+    },
+    "nine": {
+      "id": 9,
+      "title": "O meu projeto foi finalizado, mas gostaria de solicitar revisões. O que devo fazer?",
+      "moreInfo": "Pode solicitar uma revisão ao responder ao e-mail que recebeu com o seu projeto final. O Project Manager marcará então uma consulta gratuita de 30 minutos para revisões. Tenha em atenção que quaisquer revisões adicionais terão um custo adicional."
+    },
+    "ten": {
+      "id": 10,
+      "title": "Que diferenças existem entre a impressão padrão e a impressão premium?",
+      "moreInfo": "Os nossos serviços de impressão padrão são concebidos para satisfazer as suas necessidades básicas. O pacote premium inclui uma capa personalizada."
+    }
+  },
+  "SponteneousApplication": {
+    "title": "Candidatura espontânea",
+    "firstname": "Nome",
+    "firstnamePlaceholder": "Introduza o seu nome",
+    "lastname": "Apelido",
+    "lastnamePlaceholder": "Introduza o seu apelido",
+    "email": "E-mail",
+    "emailPlaceholder": "Introduza o correio eletrónico",
+    "phone": "Número de telemóvel",
+    "phonePlaceholder": "Introduza o seu número de telemóvel",
+    "dob": "Data de nascimento",
+    "dobPlaceholder": "Introduza o data de nascimento",
+    "message": "Fale-nos de si",
+    "messagePlaceholder": "fale-nos das suas competências, interesses, etc.",
+    "resume": "Carregue o seu currículo",
+    "resumePlaceholder": "Selecionar ficheiro – Nenhum ficheiro selecionado",
+    "btnText": "Enviar candidatura"
+  },
+  "Error": {
+    "title": "Etwas ist schief gelaufen!",
+    "description": "<p>Es ist leider ein Problem aufgetreten.</p><p>Du kannst versuchen <retry>diese Seite neu zu laden</retry>.</p>"
+  },
+  "NotFoundPage": {
+    "title": "Seite nicht gefunden",
+    "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln."
+  },
+  "LoginPage": {
+    "title": "Iniciar sessão",
+    "email": "E-mail",
+    "emailPlaceholder": "Introduza o seu correio eletrónico",
+    "password": "Palavra-passe",
+    "passwordPlaceholder": "Introduza a sua palavra-passe",
+    "btnText": "Iniciar sessão",
+    "signupQuestion": "Não tem uma conta? Registe-se aqui.",
+    "forgotPassword": "Esqueceu-se da sua palavra-passe?"
+  },
+  "SignupPage": {
+    "title": "Registo",
+    "firstname": "Nome",
+    "firstnamePlaceholder": "Introduza o seu nome",
+    "lastname": "Apelido",
+    "lastnamePlaceholder": "Introduza o seu apelido",
+    "email": "E-mail",
+    "emailPlaceholder": "Introduza o correio eletrónico",
+    "dob": "Data de nascimento",
+    "dobPlaceholder": "Introduza o data de nascimento",
+    "gender": "Género",
+    "genderPlaceholder": "Introduza o Género",
+    "male": "Masculino,",
+    "female": "Feminino",
+    "other": "Outro",
+    "donot": "Não quer indicar",
+    "select": "Selecione uma opção",
+    "country": "País",
+    "countryPlaceholder": "Introduza o seu país",
+    "city": "Cidade",
+    "cityPlaceholder": "Introduza a sua cidade",
+    "job": "Profissão",
+    "jobPlaceholder": "Introduza a sua profissão",
+    "phone": "Número de telemóvel",
+    "phonePlaceholder": "Introduza o seu número de telemóvel",
+    "password": "Palavra-passe",
+    "passwordPlaceholder": "Introduza uma palavra-passe de 8 dígitos",
+    "btnText": "Registar",
+    "loginQuestion": "Já é um utilizador? Inicie sessão aqui."
+  },
+  "RecoverAccountPage": {
+    "title": "Recuperar conta",
+    "email": "E-mail",
+    "emailPlaceholder": "Introduza o seu correio eletrónico",
+    "btnText": "Verificar",
+    "signupQuestion": "Registe-se aqui",
+    "loginQuestion": "Voltar para Iniciar sessão"
+  },
+  "ProfilePage": {
+    "title": "Perfil",
+    "subtitle": "Informações pessoais",
+    "backBtn": "Voltar",
+    "logoutBtn": "Terminar sessão"
+  },
+  "ContactPage": {
+    "title": "Entre em contacto",
+    "firstname": "Nome",
+    "firstnamePlaceholder": "Introduza o seu nome",
+    "lastname": "Apelido",
+    "lastnamePlaceholder": "Introduza o seu apelido",
+    "email": "E-mail",
+    "emailPlaceholder": "Introduza o seu correio eletrónico",
+    "subject": "Assunto",
+    "subjectPlaceholder": "Indique o assunto da sua mensagem",
+    "message": "Mensagem",
+    "messagePlaceholder": "Indique o motivo pelo seu contacto",
+    "btnText": "Enviar"
+  },
+  "NoUserComponent": {
+    "text": "Inicie sessão para aceder a esta funcionalidade",
+    "loginBtn": "Iniciar sessão",
+    "signupBtn": "Registar"
+  },
+  "CompletedComponent": {
+    "title": "O seu pedido foi enviado",
+    "subtitle": "Entraremos em contacto consigo brevemente por e-mail com a confirmação e o orçamento.",
+    "homeBtn": "Voltar ao Início"
+  },
+  "UserDetailsComponent": {
+    "fullname": "Nome completo",
+    "phone": "Número de telemóvel",
+    "address": "Morada",
+    "email": "E-mail"
+  },
+  "PaymentProcessComponent": {
+    "title": "PROCESSO DE PAGAMENTO",
+    "status": "em processamento",
+    "text": "Cobramos {price}€ por palavra para {word} palavras",
+    "card": "Informações do cartão de crédito",
+    "pay": "Pagar €{price}",
+    "loading": "Aguarde enquanto iniciamos o processo de pagamento"
+  },
+  "TranslationService": {
+    "title": "Tradução",
+    "subtitle": "A tradução preenche as lacunas linguísticas, unindo diversas vozes em harmonia.",
+    "Tab": ["Tipo de Tradução", "Detalhes", "Revisão", "Pagamento"],
+    "info": "Selecione o Tipo de Tradução",
+    "wordCount": "número de palavras",
+    "standard": {
+      "title": "Padrão",
+      "subtitle": "Destina-se a conteúdos não técnicos, tais como livros, relatórios, publicações em blogues, análises de produtos, artigos, etc."
+    },
+    "technical": {
+      "title": "Técnica",
+      "subtitle": "Destina-se a conteúdos com terminologia técnica, como manuais, comunicados de imprensa, conteúdos jurídicos, temas científicos e tecnológicos, bitcoin, finanças, etc."
+    },
+    "uploadText": "Carregue um ficheiro",
+    "select": {
+      "text": "Escolha o idioma:",
+      "to": "Para",
+      "from": "De",
+      "option": "Selecione uma opção"
+    },
+    "file": "Arquivo",
+    "price": "Custo",
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "payment": "Prossiga para o pagamento",
+    "response": "Não foi possível obter a contagem de palavras, verifique o ficheiro selecionado",
+    "readingFileText": "Estamos lendo seu arquivo, Por favor, aguarde..."
+  },
+  "AudioProductionService": {
+    "title": "Produção de Áudio",
+    "subtitle": "A produção de áudio cria uma sinfonia de paisagens sonoras, dando vida a histórias e captando emoções.",
+    "Tab": ["Detalhes", "Revisão", "Pagamento"],
+    "uploadText": "Carregue o seu documento",
+    "details": "Detalhes",
+    "only": "apenas .pdf",
+    "gender": {
+      "text": "Género",
+      "male": "Masculino",
+      "female": "Feminino",
+      "option": "Selecione uma opção"
+    },
+    "language": {
+      "text": "Idioma",
+      "option": "Selecione uma opção"
+    },
+    "accent": {
+      "text": "Preferência de sotaque",
+      "placeholder": "Introduza o sotaque"
+    },
+    "about": {
+      "text": "Fale-nos mais sobre o seu projeto (opcional)",
+      "placeholder": "Por favor forneça mais detalhes ..."
+    },
+    "review": {
+      "gender": "Género",
+      "language": "Idioma",
+      "accent": "Sotaque",
+      "doc": "Nome do documento",
+      "wordCount": "Número de palavras",
+      "details": "Detalhes sobre o projeto",
+      "price": "Custo"
+    },
+    "info": "Introduza toda a informação",
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "payment": "Prossiga para o pagamento",
+    "response": "Não foi possível obter a contagem de palavras, verifique o ficheiro selecionado",
+    "readingFileText": "Estamos lendo seu arquivo, Por favor, aguarde..."
+  },
+  "EditingService": {
+    "title": "Edição",
+    "subtitle": "A edição dá brilho às palavras originais, transformando-as em jóias brilhantes, refinando a arte da expressão.",
+    "Tab": ["Carregar", "Tipo de edição", "Revisão", "Pagamento"],
+    "uploadText": "Carregue o seu documento",
+    "details": "Detalhes do documento",
+    "only": "apenas .pdf",
+    "infoType": "Selecione o tipo de edição",
+    "standard": {
+      "title": "Padrão",
+      "subtitle": "Destina-se a conteúdos não técnicos, tais como livros, relatórios, publicações em blogues, análises de produtos, artigos, etc."
+    },
+    "technical": {
+      "title": "Técnica",
+      "subtitle": "Destina-se a conteúdos com terminologia técnica, como manuais, comunicados de imprensa, conteúdos jurídicos, temas científicos e tecnológicos, bitcoin, finanças, etc."
+    },
+    "review": {
+      "doc": "Nome do documento",
+      "wordCount": "Número de palavras",
+      "type": "Tipo de edição",
+      "price": "Custo"
+    },
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "payment": "Prossiga para o pagamento",
+    "info": "Insira todas as informações",
+    "response": "Não foi possível obter a contagem de palavras, verifique o ficheiro selecionado",
+    "readingFileText": "Estamos lendo seu arquivo, Por favor, aguarde...",
+    "existingData": "Verificámos que tem dados existentes, por favor clique aqui para continuar a partir do ponto onde ficou ou apagar os dados existentes",
+    "clear": "Apagar",
+    "reload": "Recarregar"
+  },
+  "PrintingService": {
+    "title": "Impressão",
+    "subtitle": "A impressão transforma visões digitais em realidades tangíveis, imortalizando ideias no papel.",
+    "Tab": ["Tipo de impressão", "Detalhes", "Revisão", "Envio"],
+    "uploadText": "Carregue o seu documento",
+    "details": "Detalhes do documento",
+    "only": "apenas .pdf",
+    "infoType": "Selecione o tipo de impressão",
+    "standard": {
+      "title": "Impressão padrão",
+      "subtitle": "Destina-se à impressão em massa, como livros e manuais."
+    },
+    "premium": {
+      "title": "Impressão premium",
+      "subtitle": "Destina-se à impressão em massa com uma capa personalizada."
+    },
+    "form": {
+      "pages": "Número de páginas",
+      "quantity": "Quantidade de cópias",
+      "quantityPlaceholder": "Introduza o número de cópias",
+      "color": "Opção de cores",
+      "colors": "Cores",
+      "bw": "Preto e Branco",
+      "both": "Ambas",
+      "colorPlaceholder": "Selecione uma opção",
+      "location": "Local para onde será remetido",
+      "locationPlaceholder": "Introduza a localização",
+      "details": "Detalhes adicionais? (opcional)",
+      "detailsPlaceholder": "Se selecionou a opção de ambas, por favor esclareça aqui quantos exemplares necessita a cores e a preto e branco ..."
+    },
+    "review": {
+      "doc": "Nome do Documento",
+      "pageCount": "Número de páginas",
+      "details": "detalhes adicionais"
+    },
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "payment": "Prossiga para o pagamento",
+    "info": "Insira todas as informações",
+    "submitting": "A enviar o seu pedido ...",
+    "response": "Não foi possível obter a contagem de palavras, verifique o ficheiro selecionado",
+    "fileSize": "O ficheiro selecionado contém {size} página(s)",
+    "readingFileText": "Estamos lendo seu arquivo, Por favor, aguarde...",
+    "existingData": "Verificámos que tem dados existentes, por favor clique aqui para continuar a partir do ponto onde ficou ou apagar os dados existentes",
+    "clear": "Apagar",
+    "reload": "Recarregar"
+  },
+  "InterpretationService": {
+    "title": "Interpretação",
+    "subtitle": "A interpretação desvenda os significados ocultos, revelando os meandros da língua e da cultura.",
+    "Tab": ["Detalhes", "Revisão", "Envio"],
+    "uploadText": "Deseja carregar um ficheiro? (opcional)",
+    "details": "Detalhes do documento",
+    "form": {
+      "from": "Idioma de",
+      "option": "Selecione uma opção",
+      "to": "Idioma para",
+      "date": "Data do evento",
+      "datePlaceholder": "Selecione a data",
+      "time": "Hora do evento",
+      "timePlaceholder": "Selecione a evento",
+      "details": "Detalhes",
+      "detailsPlaceholder": "Forneça mais informações, tais como o tema, previsões, etc...",
+      "doc": "Nome do Documento"
+    },
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "info": "Insira todas as informações",
+    "submitting": "A enviar o seu pedido ...",
+    "existingData": "Verificámos que tem dados existentes, por favor clique aqui para continuar a partir do ponto onde ficou ou apagar os dados existentes",
+    "clear": "Apagar",
+    "reload": "Recarregar"
+  },
+  "CertificationService": {
+    "title": "Certificação de documentos",
+    "subtitle": "A certificação de documentos garante a autenticidade, acrescentando um selo de confiança a registos cruciais.",
+    "Tab": ["Detalhes", "Revisão", "Envio"],
+    "uploadText": "Carregue o seu documento",
+    "details": "Detalhes do documento",
+    "form": {
+      "certified": "Documento a ser certificado",
+      "certifiedPlaceholder": "Certificado profissional, passaporte, certidão de nascimento, etc.",
+      "country": "País",
+      "countryPlaceholder": "Introduza o país",
+      "language": "Idioma",
+      "languagePlaceholder": "Introduza o idioma",
+      "details": "O objetivo da certificação (opcional)",
+      "purpose": "O objetivo da certificação",
+      "detailsPlaceholder": "Por favor forneça mais detalhes ...",
+      "doc": "Nome do Documento"
+    },
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "info": "Insira todas as informações",
+    "submitting": "A enviar o seu pedido ...",
+    "existingData": "Verificámos que tem dados existentes, por favor clique aqui para continuar a partir do ponto onde ficou ou apagar os dados existentes",
+    "clear": "Apagar",
+    "reload": "Recarregar"
+  },
+  "WritingService": {
+    "title": "Redação técnica",
+    "subtitle": "A redação técnica simplifica a complexidade, guiando os leitores através de conceitos intrincados com clareza e precisão.",
+    "Tab": ["Detalhes", "Revisão", "Pagamento"],
+    "uploadText": "Deseja carregar um ficheiro? (opcional)",
+    "details": "Detalhes do documento",
+    "form": {
+      "assignment": "Trabalho de redação",
+      "assignmentPlaceholder": "Informe-nos do que precisa que seja produzido: manual de instruções, artigo científico, etc.",
+      "topic": "Tópico",
+      "topicPlaceholder": "Introduza o tópico",
+      "wordcount": "Número de palavras",
+      "wordcountPlaceholder": "Introduza o número de palavras",
+      "requirement": "Requisitos específicos",
+      "requirementPlaceholder": "Se existir algum requisito especial que seja importante ter em conta, por favor esclareça-o aqui.",
+      "resources": "Fontes (opcional)",
+      "resourcesPlaceholder": "Se existirem sites, artigos ou livros que considere úteis para o seu escritor, pode indicá-los aqui.",
+      "doc": "Nome do Documento"
+    },
+    "price": "Preço",
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "payment": "Prossiga para o pagamento",
+    "info": "Insira todas as informações",
+    "submitting": "A enviar o seu pedido ...",
+    "existingData": "Verificámos que tem dados existentes, por favor clique aqui para continuar a partir do ponto onde ficou ou apagar os dados existentes",
+    "clear": "Apagar",
+    "reload": "Recarregar"
+  },
+  "GhostwritingService": {
+    "title": "Ghostwriting",
+    "subtitle": "O Ghostwriting incorpora a arte de criar palavras nas sombras, dando vida a histórias que não foram contadas.",
+    "Tab": ["Tipo de redação", "Detalhes", "Revisão", "Pagamento"],
+    "type": "Selecione o tipo de redação",
+    "uploadText": "Deseja carregar um ficheiro? (opcional)",
+    "details": "Detalhes do documento",
+    "fiction": "Ficção",
+    "nonfiction": "Não ficção",
+    "standard": {
+      "title": "Redação padrão",
+      "subtitle": "Destina-se a livros de autoajuda, romance, ficção científica, etc."
+    },
+    "technical": {
+      "title": "Redação técnica",
+      "subtitle": "Destina-se a livros sobre finanças, criptomoeda, STEM, etc."
+    },
+    "form": {
+      "title": "Título do livro",
+      "titlePlaceholder": "Introduza o título do livro",
+      "subtitle": "Subtítulo do livro (opcional)",
+      "subtitlePlaceholder": "Introduza o subtítulo do livro",
+      "author": "Nome do autor",
+      "authorPlaceholder": "Introduza o nome do autor",
+      "preferences": "Preferências de formatação (opcional)",
+      "preferencesPlaceholder": "Introduza as suas preferências de formatação",
+      "bookType": "Tipo de livro",
+      "bookTypePlaceholder": "Por favor, insira o tipo",
+      "genre": "Género",
+      "genrePlaceholder": "Selecione ou insira qualquer categoria de gênero",
+      "wordCount": "Número de palavras",
+      "wordCountPlaceholder": "Introduza o número de palavras",
+      "summary": "Breve resumo do livro",
+      "summaryPlaceholder": "Por favor forneça mais detalhes ...",
+      "chapters": "Número de capítulos",
+      "chaptersPlaceholder": "Introduza o número de capítulos",
+      "wordCountPerChapter": "Número de palavras por capítulo",
+      "wordCountPerChapterPlaceholder": "Introduza o número de palavras por capítulo",
+      "audience": "Público-alvo",
+      "audiencePlaceholder": "Introduza o público-alvo",
+      "bookSize": "Tamanho do livro",
+      "bookSizePlaceholder": "Selecione uma opção",
+      "bookOutline": "Esboço do livro",
+      "bookOutlinePlaceholder": "Forneça um breve esboço dos capítulos ou secções que pretende incluir no seu livro.",
+      "resources": "Fontes (opcional)",
+      "resourcesPlaceholder": "Se existirem sites, artigos ou livros que considere úteis para o seu escritor, pode indicá-los aqui.",
+      "doc": "Nome do Documento",
+      "info": "Partilhe connosco informações sobre a estrutura do livro, as disposições relativas à contagem de palavras e os tópicos específicos que pretende que sejam abordados no livro. Não tenha medo de escrever muito, cada pequeno pormenor conta!"
+    },
+    "dividerText": "Partilhe connosco informações sobre a estrutura do livro, as disposições relativas à contagem de palavras e os tópicos específicos que pretende que sejam abordados no livro. Não tenha medo de escrever muito, cada pequeno pormenor conta!",
+    "horror": "Terror",
+    "fantasy": "Fantasia",
+    "fictions": "Ficção científica",
+    "romance": "Romance",
+    "mystery": "Mistério",
+    "biography": "Biografia",
+    "selfhelp": "Autoajuda",
+    "travel": "Viagens",
+    "food": "Comida",
+    "finance": "Finanças",
+    "price": "Preço",
+    "option": "Selecione uma opção",
+    "cancelBtnText": "Cancelar",
+    "continueBtnText": "Continuar",
+    "submitBtnText": "Enviar",
+    "backBtnText": "Voltar",
+    "info": "Insira todas as informações",
+    "payment": "Prossiga para o pagamento",
+    "existingData": "Verificámos que tem dados existentes, por favor clique aqui para continuar a partir do ponto onde ficou ou apagar os dados existentes",
+    "clear": "Apagar",
+    "reload": "Recarregar"
+  },
+  "LocaleLayout": {
+    "title": "Ling Commms"
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, pt {Português} en {Inglês} es {Espanhola} other {Desconhecida}}",
+    "switchLocale": "{locale, select, pt {Português} en {Inglês} es {Espanhola}}"
+  },
+  "SuccessComponent": {
+    "success": "Seu pagamento foi aprovado",
+    "failure": "Seu pagamento não foi bem-sucedido",
+    "info": "Em breve entraremos em contato com você por e-mail",
+    "btnText": "De volta para casa"
+  },
+  "PageErrorComponent": {
+    "title": "Página no encontrada",
+    "subtitle": "Iremos redirecioná-lo para a página inicial",
+    "btnText": "Início"
+  },
+  "Footer": {
+    "intro": "A LINGO Communications concretiza as suas ideias através do apoio humano. Todos os projetos são acompanhados pela nossa equipa de profissionais para garantir que obtém exatamente o que idealizou.",
+    "contact": "CONTACTOS",
+    "office": "REPÚBLICA DA IRLANDA",
+    "location": "13 Adelaide Road, Saint Kevin's, Dublin 2, D02 P950, Irlanda",
+    "quickLinks": {
+      "title": "LINKS ÚTEIS",
+      "home": "Início",
+      "services": "Serviços",
+      "career": "Recrutamento: Vagas disponíveis",
+      "application": "Recrutamento: Candidatura espontânea",
+      "security": "Segurança",
+      "lingo": "Sobre: Lingo",
+      "faq": "Sobre: FAQ"
+    },
+    "services": {
+      "title": "SERVIÇOS",
+      "translation": "Tradução",
+      "editing": "Edição",
+      "ghostwriting": "Ghostwriting",
+      "production": "Produção de áudio",
+      "certification": "Certificação",
+      "printing": "Impressão",
+      "interpretation": "Interpretação",
+      "writing": "Redação Técnica"
+    },
+    "newsletter": "NEWSLETTER",
+    "email": "E-mail",
+    "emailPlaceholder": "Introduza o seu e-mail",
+    "subscribe": "Subscrever",
+    "outro": "2023 Lingo Communications. Todos os direitos reservados."
+  }
+}

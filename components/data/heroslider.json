@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2,
+    "title": "",
+    "subtitle": "",
+    "image": "https://imgur.com/dpFKNko.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 1,
+    "title": "",
+    "subtitle": "",
+    "image": "https://imgur.com/6oOQSn6.png",
+    "url": "",
+    "action": ""
+  },
+  {
+    "id": 2,
+    "title": "Product",
+    "subtitle": "Close Up<br>Toothpaste.",
+    "image": "/assets/img/retailer/closeup.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 3,
+    "title": "Product",
+    "subtitle": "Indomie Instant<br>Noodles",
+    "image": "/assets/img/retailer/indomie.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 4,
+    "title": "Product",
+    "subtitle": "Nestle <br>Milo",
+    "image": "/assets/img/retailer/milo.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 5,
+    "title": "Free Shipping &",
+    "subtitle": "Best Products Granted",
+    "image": "https://i.imgur.com/81EdvEq.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 6,
+    "title": "Product",
+    "subtitle": "Ariel<br>Detergent.",
+    "image": "/assets/img/retailer/ariel.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 7,
+    "title": "Product",
+    "subtitle": "Peak<br>Milk.",
+    "image": "/assets/img/retailer/peak.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 8,
+    "title": "Product",
+    "subtitle": "Morning<br>Fresh.",
+    "image": "/assets/img/retailer/morning-fresh.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 9,
+    "title": "Product",
+    "subtitle": "Bornvita<br>",
+    "image": "/assets/img/retailer/Bornvita.png",
+    "url": "/shop",
+    "action": "Buy Now"
+  },
+  {
+    "id": 10,
+    "title": "",
+    "subtitle": "",
+    "image": "https://i.imgur.com/SRKaGg7.png",
+    "url": "",
+    "action": ""
+  },
+  {
+    "id": 11,
+    "title": "Low & Affodable",
+    "subtitle": "Price To Fit Any Pocket. ",
+    "image": "https://i.imgur.com/rMoeW4S.png",
+    "url": "",
+    "action": ""
+  }
+]
